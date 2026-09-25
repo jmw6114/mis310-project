@@ -7,7 +7,6 @@ body {
     max-width: 95%;
 }
 
-
 p {
     margin: 1%;
     padding: 2%;
@@ -47,4 +46,11 @@ test{
     align-items: center;
     font-style: oblique;
     font-weight: 900;
+}
+
+hold{
+    margin: 1%;
+    padding: 2%;
+    border: 1px solid #333333;
+    max-width: 95%;
 }
