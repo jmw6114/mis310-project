@@ -9,13 +9,26 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
+    margin: 5%;
+    padding: 10%;
+    border: 1px solid #333333;
+    max-width: 95%;
 }
 
+p {
+    margin: 5%;
+    padding: 10%;
+    border: 1px solid #333333;
+    max-width: 95%;
+}
 .big_heading {
     display: flex;
     align-items: center;
-
     font-style: italic;
+    margin: 5%;
+    padding: 10%;
+    border: 1px solid #333333;
+    max-width: 95%;
 }
 
 test{
