@@ -1,8 +1,8 @@
 body {
     background-color: #000;
     color: #E3E899;
-    margin: 20px;
-    padding: 16px;
+    margin: 5%;
+    padding: 10%;
     border: 1px solid #333333;
     max-width: 95%;
 }
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 test{
-    font-size: 40px;
+    font-size: 500px;
     display: flex;
     align-items: center;
     font-style: oblique;
