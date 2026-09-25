@@ -9,30 +9,41 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    margin: 5%;
-    padding: 10%;
+    margin: 1%;
+    padding: 2%;
     border: 1px solid #333333;
-    max-width: 95%;
+    max-width: 20%;
 }
 
 p {
-    margin: 5%;
-    padding: 10%;
+    margin: 1%;
+    padding: 2%;
     border: 1px solid #333333;
-    max-width: 95%;
+    max-width: 20%;
 }
+
+iframe{
+    margin: 1%;
+    padding: 2%;
+    border: 1px solid #333333;
+    max-width: 20%;
+}
+
+
+
+
 .big_heading {
     display: flex;
     align-items: center;
     font-style: italic;
-    margin: 5%;
-    padding: 10%;
+    margin: 1%;
+    padding: 2%;
     border: 1px solid #333333;
-    max-width: 95%;
+    max-width: 20%;
 }
 
 test{
-    font-size: 500px;
+    font-size: 100px;
     display: flex;
     align-items: center;
     font-style: oblique;
