@@ -23,10 +23,10 @@ p {
 }
 
 iframe{
-    margin: 1%;
-    padding: 2%;
+    margin: 5px;
+    padding: 5%;
     border: 1px solid #333333;
-    max-width: 20%;
+    max-width: 50%;
 }
 
 
