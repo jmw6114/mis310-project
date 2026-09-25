@@ -2,3 +2,12 @@ body {
     background-color: #000;
     color: #E3E899;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+.big_heading {
+    align-items: center;
+    font-style: italic;
+}
