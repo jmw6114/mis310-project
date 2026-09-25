@@ -4,7 +4,7 @@ body {
     margin: 20px;
     padding: 16px;
     border: 1px solid #333333;
-    max-width: 600px;
+    max-width: 95%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 test{
-    font-size: 150%;
+    font-size: 40px;
     display: flex;
     align-items: center;
     font-style: oblique;
