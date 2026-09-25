@@ -12,6 +12,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .big_heading {
+    display: flex;
     align-items: center;
+
     font-style: italic;
+}
+
+test{
+    font-size: 150%;
+    display: flex;
+    align-items: center;
+    font-style: oblique;
+    font-weight: 900;
 }
