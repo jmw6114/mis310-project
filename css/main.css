@@ -103,19 +103,9 @@ test{
     align-items: center;
     font-style: oblique;
     font-weight: 900;
-    text-align: center;
 }
 
 @media (max-width: 800px) {
-    body {
-        background-color: yellow;
-        color: #E3E899;
-        margin: 25px;
-        padding: 5px;
-        border: 1px solid #333333;
-        max-width: 95%;
-        text-align: center;
-    }
 
     .heade{
         display: flex;
@@ -178,7 +168,8 @@ test{
 
     .source{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
         margin: 1%;
         padding: 2%;
         border: 1px solid #333333;
