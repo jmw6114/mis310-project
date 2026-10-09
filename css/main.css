@@ -19,7 +19,7 @@ nav ul li{
 
 .container {
   display: flex;
-  height: 350px;
+  height: 500px;
   align-items: flex-start;
   background-color: #0c0c0c;
   border: 1px solid #333333;
