@@ -107,14 +107,6 @@ test{
 
 @media (max-width: 800px) {
 
-    .heade{
-        display: flex;
-        flex-direction: column;
-    }
-    .heade div{
-        display: block;
-    }
-
     nav{
         display: block;
     }
