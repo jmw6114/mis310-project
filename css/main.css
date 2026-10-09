@@ -22,7 +22,12 @@ nav ul{
     display: flex;
 }
 nav ul li{
-    display: block;    
+    display: block; 
+    margin: 5px;
+    padding: 5%;
+    border: 1px solid #333333;
+    max-width: 50%;
+   
 }
 
 .container_img {
