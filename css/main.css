@@ -5,6 +5,8 @@ body {
     padding: 5px;
     border: 1px solid #333333;
     max-width: 95%;
+    justify-content: center;
+    align-items: center;
 }
 
 .heade{
@@ -25,23 +27,23 @@ nav ul li{
 }
 
 .container_img {
-  display: flex;
-  height: 550px;
-  align-items: flex-start;
-  background-color: #0c0c0c;
-  border: 1px solid #333333;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    height: 550px;
+    align-items: flex-start;
+    background-color: #0c0c0c;
+    border: 1px solid #333333;
+    justify-content: center;
+    align-items: center;
 }
 .container div {
-  background-color: #1a1919;
-  width: 50%;
-  margin: 10px;
-  padding: 10px;
-  text-align: center;  
-  font-size: 30px;
-  justify-content: center;
-  align-items: center;
+    background-color: #1a1919;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;  
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
 }
 .container div img{
     width: 75%;
