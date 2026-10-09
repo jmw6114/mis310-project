@@ -30,6 +30,8 @@ nav ul li{
   align-items: flex-start;
   background-color: #0c0c0c;
   border: 1px solid #333333;
+  justify-content: center;
+  align-items: center;
 }
 .container div {
   background-color: #1a1919;
@@ -38,6 +40,8 @@ nav ul li{
   padding: 10px;
   text-align: center;  
   font-size: 30px;
+  justify-content: center;
+  align-items: center;
 }
 .container div img{
     width: 75%;
@@ -85,6 +89,7 @@ test{
     align-items: center;
     font-style: oblique;
     font-weight: 900;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
