@@ -109,12 +109,21 @@ test{
 
 @media (max-width: 600px) {
     body {
-    background-color: yellow;
-    color: #E3E899;
-    margin: 5%;
-    padding: 10%;
-    border: 1px solid #333333;
-    max-width: 95%;
+        background-color: yellow;
+        color: #E3E899;
+        margin: 25px;
+        padding: 5px;
+        border: 1px solid #333333;
+        max-width: 95%;
+        text-align: center;
+    }
+
+    .heade{
+        display: flex;
+        flex-direction: column;
+    }
+    .heade div{
+        display: block;
     }
 
     nav{
@@ -122,39 +131,58 @@ test{
     }
     nav ul{
         display: flex;
+        flex-direction: column;
     }
     nav ul li{
-        display: block;    
+        display: block; 
+        margin: 5px;
+        padding: 5%;
+        border: 1px solid #333333;
+        max-width: 50%;   
     }
 
-    .container {
-    display: flex;
-    height: 350px;
-    align-items: flex-start;
-    background-color: #0c0c0c;
-    border: 1px solid #333333;
+    .container_img {
+        display: flex;
+        flex-direction: column;
+        height: 50%;
+        align-items: flex-start;
+        background-color: #0c0c0c;
+        border: 1px solid #333333;
+        justify-content: center;
+        align-items: center;
     }
     .container div {
-    background-color: #1a1919;
-    width: 50%;
-    margin: 10px;
-    padding: 10px;
-    text-align: center;  
-    font-size: 30px;
+        display: flex;
+        background-color: #1a1919;
+        width: 50%;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;  
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
     }
     .container div img{
-        width: 95%;
-        height: 75%;
+        width: 75%;
+        height: 70%;
         margin: 10px;
         padding: 10px;
         text-align: center;
     }
     .container div h2{
-        width: 95%;
-        height: 15%;
+        width: 50%;
+        height: 10%;
         margin: 10px;
         padding: 10px;
         text-align: center;
+    }
+
+    .source{
+        display: flex;
+        flex-direction: column;
+    }
+    .source div{
+        display: block;
     }
 }
 
