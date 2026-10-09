@@ -7,6 +7,19 @@ body {
     max-width: 95%;
 }
 
+nav{
+    display: block;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    display: block;
+    
+}
+
 .container {
   display: flex;
   height: 200px;
