@@ -71,6 +71,13 @@ nav ul li{
 }
 .source div{
     display: block;
+    width: 33%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;  
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
 }
 
 .box1 {
@@ -183,6 +190,13 @@ test{
     }
     .source div{
         display: block;
+        width: 33%;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;  
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
     }
 }
 
