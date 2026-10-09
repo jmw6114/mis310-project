@@ -32,6 +32,7 @@ nav ul li{
 
 .container_img {
     display: flex;
+    flex-wrap: wrap;
     height: 400px;
     align-items: flex-start;
     background-color: #0c0c0c;
