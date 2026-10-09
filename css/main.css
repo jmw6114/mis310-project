@@ -30,6 +30,8 @@ img{
 
 
 
+
+
 .big_heading {
     display: flex;
     align-items: center;
@@ -39,6 +41,10 @@ img{
     border: 1px solid #333333;
     max-width: 20%;
 }
+
+
+
+
 
 test{
     font-size: 75px;
