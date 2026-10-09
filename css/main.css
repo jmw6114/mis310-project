@@ -21,14 +21,16 @@ nav ul li{
 
 .container {
   display: flex;
-  height: 200px;
+  height: 350px;
   align-items: flex-start;
-  background-color: DodgerBlue;
+  background-color: rgb(127, 131, 136);
+  border: 1px solid #333333;
+
 }
 
 .container div {
-  background-color: #f1f1f1;
-  width: 100px;
+  background-color: #1a1919;
+  width: 50%;
   margin: 10px;
   padding: 10px;
   text-align: center;  
