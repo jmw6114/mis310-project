@@ -7,6 +7,21 @@ body {
     max-width: 95%;
 }
 
+.container {
+  display: flex;
+  height: 200px;
+  align-items: flex-start;
+  background-color: DodgerBlue;
+}
+
+.container div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;  
+  font-size: 30px;
+}
 
 .box1 {
     margin: 1%;
