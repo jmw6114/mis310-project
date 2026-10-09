@@ -68,31 +68,23 @@ nav ul li{
 .source{
     display: flex;
     flex-direction: row;
+    margin: 1%;
+    padding: 2%;
+    border: 1px solid #333333;
+    max-width: 95%;
 }
 .source div{
     display: block;
     width: 33%;
     margin: 10px;
     padding: 10px;
+    border: 1px solid #333333;
     text-align: center;  
     font-size: 30px;
     justify-content: center;
     align-items: center;
 }
 
-.box1 {
-    margin: 1%;
-    padding: 2%;
-    border: 1px solid #333333;
-    max-width: 95%;
-}
-
-.box2 {
-    margin: 5px;
-    padding: 5%;
-    border: 1px solid #333333;
-    max-width: 50%;
-}
 
 .big_heading1 {
     display: flex;
@@ -187,12 +179,17 @@ test{
     .source{
         display: flex;
         flex-direction: column;
+        margin: 1%;
+        padding: 2%;
+        border: 1px solid #333333;
+        max-width: 95%;
     }
     .source div{
         display: block;
         width: 33%;
         margin: 10px;
         padding: 10px;
+        border: 1px solid #333333;
         text-align: center;  
         font-size: 30px;
         justify-content: center;
