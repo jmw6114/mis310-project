@@ -24,7 +24,7 @@ nav ul li{
     display: block;    
 }
 
-.container {
+.container_img {
   display: flex;
   height: 700px;
   align-items: flex-start;
