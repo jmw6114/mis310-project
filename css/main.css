@@ -21,7 +21,7 @@ nav ul li{
   display: flex;
   height: 350px;
   align-items: flex-start;
-  background-color: rgb(127, 131, 136);
+  background-color: #0c0c0c;
   border: 1px solid #333333;
 }
 .container div {
