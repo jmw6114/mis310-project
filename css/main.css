@@ -34,6 +34,7 @@ nav ul li{
     align-items: center;
 }
 .container div {
+    display: flex;
     background-color: #1a1919;
     width: 50%;
     margin: 10px;
