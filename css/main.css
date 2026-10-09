@@ -10,6 +10,7 @@ body {
 
 .heade{
     display: flex;
+    flex-direction: column;
 }
 .heade div{
     display: block;
@@ -26,8 +27,7 @@ nav ul li{
     margin: 5px;
     padding: 5%;
     border: 1px solid #333333;
-    max-width: 50%;
-   
+    max-width: 50%;   
 }
 
 .container_img {
