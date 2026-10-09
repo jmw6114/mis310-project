@@ -34,7 +34,6 @@ nav ul li{
     display: flex;
     flex-wrap: wrap;
     height: 400px;
-    align-items: flex-start;
     background-color: #0c0c0c;
     border: 1px solid #333333;
     justify-content: center;
