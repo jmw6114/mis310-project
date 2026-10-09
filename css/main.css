@@ -7,10 +7,10 @@ body {
     max-width: 95%;
 }
 
-.header{
+.heade{
     display: flex;
 }
-.header div{
+.heade div{
     display: block;
 }
 
