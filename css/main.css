@@ -17,6 +17,13 @@ nav ul li{
     display: block;    
 }
 
+.header{
+    display: flex;
+}
+.header div{
+    display: block;
+}
+
 .container {
   display: flex;
   height: 500px;
