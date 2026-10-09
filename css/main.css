@@ -70,6 +70,15 @@ test{
 }
 
 @media (max-width: 600px) {
+    body {
+    background-color: #000;
+    color: #E3E899;
+    margin: 5%;
+    padding: 10%;
+    border: 1px solid #333333;
+    max-width: 95%;
+    }
+    
     nav{
         display: block;
     }
