@@ -10,11 +10,9 @@ body {
 nav{
     display: block;
 }
-
 nav ul{
     display: flex;
 }
-
 nav ul li{
     display: block;    
 }
@@ -26,7 +24,6 @@ nav ul li{
   background-color: rgb(127, 131, 136);
   border: 1px solid #333333;
 }
-
 .container div {
   background-color: #1a1919;
   width: 50%;
@@ -82,11 +79,9 @@ test{
     nav{
         display: block;
     }
-
     nav ul{
         display: flex;
     }
-
     nav ul li{
         display: block;    
     }
@@ -98,7 +93,6 @@ test{
     background-color: rgb(127, 131, 136);
     border: 1px solid #333333;
     }
-
     .container div {
     background-color: #1a1919;
     width: 50%;
