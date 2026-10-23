@@ -8,6 +8,7 @@ body {
     text-align: center;
 }
 
+/* .heade */
 .heade{
     display: flex;
     flex-direction: column;
@@ -16,6 +17,7 @@ body {
     display: block;
 }
 
+/* nav */
 nav{
     display: block;
 }
@@ -30,6 +32,7 @@ nav ul li{
     max-width: 50%;   
 }
 
+/* .container_img */
 .container_img {
     display: flex;
     flex-wrap: wrap;
@@ -39,7 +42,7 @@ nav ul li{
     justify-content: center;
     align-items: center;
 }
-.container div {
+.container_img div {
     display: flex;
     background-color: #1a1919;
     width: 50%;
@@ -50,14 +53,14 @@ nav ul li{
     justify-content: center;
     align-items: center;
 }
-.container div h2{
+.container_img div h2{
     width: 50%;
     height: 10%;
     margin: 10px;
     padding: 10px;
     text-align: center;
 }
-.container div img{
+.container_img div img{
     width: 75%;
     height: 70%;
     margin: 10px;
@@ -65,6 +68,7 @@ nav ul li{
     text-align: center;
 }
 
+/* .source */
 .source{
     display: flex;
     flex-direction: row;
@@ -104,6 +108,7 @@ test{
     font-style: oblique;
     font-weight: 900;
 }
+
 
 @media (max-width: 800px) {
 
