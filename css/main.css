@@ -36,14 +36,15 @@ nav ul li{
 .container_img {
     display: flex;
     flex-wrap: wrap;
-    height: 400px;
+    height: auto;
     background-color: #0c0c0c;
     border: 1px solid #333333;
     justify-content: center;
     align-items: center;
 }
 .container_img div {
-    display: flex;
+    display: grid;
+    grid-template-columns: auto;
     background-color: #1a1919;
     width: 50%;
     margin: 10px;
@@ -67,6 +68,7 @@ nav ul li{
     padding: 10px;
     text-align: center;
 }
+
 
 /* .source */
 .source{
@@ -130,14 +132,15 @@ test{
     .container_img {
         display: flex;
         flex-direction: column;
-        height: 50%;
+        height: auto;
         background-color: #0c0c0c;
         border: 1px solid #333333;
         justify-content: center;
         align-items: center;
     }
     .container div {
-        display: flex;
+        display: grid;
+        grid-template-columns: auto;
         background-color: #1a1919;
         width: 50%;
         margin: 10px;
