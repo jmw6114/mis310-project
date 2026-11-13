@@ -90,12 +90,14 @@ nav ul li {
 }
 
 /* urban legends form */
+form {
+    align-items: center;
+}
 #urban-legends-form {
     display: none;
 }
 #urban-legends-form.visible {
     display: block;
-    align-items: center;
 }
 
 
