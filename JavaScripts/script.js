@@ -1,6 +1,6 @@
 const button = document.querySelector("#open/close-form");
-const message = document.querySelector("#event-message");
+const form = document.querySelector("#urban-legends-form");
 
 button.addEventListener("click", function () {
-    message.textContent = "Join us Friday at 2 PM!";
+    form.classList.toggle("visible");
 });
