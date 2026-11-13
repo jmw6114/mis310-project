@@ -95,6 +95,7 @@ nav ul li {
 }
 #urban-legends-form.visible {
     display: block;
+    align-items: center;
 }
 
 
