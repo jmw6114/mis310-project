@@ -1,4 +1,4 @@
-const button = document.querySelector("#info-button");
+const button = document.querySelector("#open/close-form");
 const message = document.querySelector("#event-message");
 
 button.addEventListener("click", function () {
