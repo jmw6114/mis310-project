@@ -89,6 +89,16 @@ nav ul li {
     max-width: 20%;
 }
 
+/* urban legends form */
+#urban-legends-form {
+    display: none;
+}
+#urban-legends-form.visible {
+    display: block;
+}
+
+
+
 /* Media Queries (Responsive Adjustments) */
 @media (max-width: 800px) {
     nav ul {
